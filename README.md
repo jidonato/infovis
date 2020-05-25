@@ -9,4 +9,4 @@
 
 
 ## TP
-[Tableau](https://jidonato.github.io/infovis/makeovermondayw19.html)
+[Tableau](https://jidonato.github.io/infovis/tp_tableau.html)
