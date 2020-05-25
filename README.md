@@ -9,7 +9,10 @@
 
 
 ## TP
+
 [Tableau - Dashbord](https://jidonato.github.io/infovis/tp_tableau.html)
+
 [Flourish - Graph plot](https://jidonato.github.io/infovis/tp_graph.html)
+
 [Flourish - Sankey plot](https://jidonato.github.io/infovis/tp_graph.html)
 
