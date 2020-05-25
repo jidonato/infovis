@@ -14,5 +14,5 @@
 
 [Flourish - Graph plot](https://jidonato.github.io/infovis/tp_graph.html)
 
-[Flourish - Sankey plot](https://jidonato.github.io/infovis/tp_graph.html)
+[Flourish - Sankey plot](https://jidonato.github.io/infovis/tp_sankey.html)
 
